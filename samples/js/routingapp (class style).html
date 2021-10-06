@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Counter app (class style)</title>
+    <script src="../../node_modules/@hofjs/hofjs/lib/nomodule/hof.js"></script>
+    <script>
+         customElements.define('page-overview', class extends HofHtmlElement {
+            constructor() { super('div'); super.useAutoProps(); }
+
+            count = 10;
+
+            render() {
+                super.renderContent(() => `
+                    <div>${new Date()}</div>
+                    <div>Aktueller Wert: ${this.count} <button onclick="${() => this.count++}">Erhöhen</button></div>
+                `);
+            }
+        });
+    </script>
+</head>
+<body>
+    <h1>Counter app (class style)</h1>
+    <page-overview></page-overview>
+</body>
+</html>

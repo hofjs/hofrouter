@@ -2,7 +2,7 @@
 
 Hof.js router is a modern routing framework. It was designed to be used with [Hof.js](https://github.com/hofjs/hof).
 
-Es beruht auf den gleichen Prinzipien wie Hof.js und fokussiert auf Webstandards. Es werden keine neuen Komponenten und auch keine neuen Attribute benötigt, sondern einfache a-Tags können verwendet werden. Dabei können einfache Hashtag-Links genutzt werden oder auch via router-Protokoll benannte Routen mit Parametern komfortabel aufgerufen werden. Als Hook-Point kann ein beliebiges div-Element angegeben werden, in dem der jeweilige Content gerendert werden soll, wobei der zu einer Route zugehörige Content in Form eines HofHtmlElement spezifiziert wird. Auch Redirects und erweiterte Features wie beliebig tief verschachteltes Routing werden unterstützt.
+It is based on the same principles as Hof.js and focuses on web standards. No new components or attributes are needed, but simple a-tags can be used. Simple hashtag links can be used or named routes with parameters can be conveniently called via router protocol. As a hook point, any div element can be specified in which the respective content is to be rendered, whereby the content associated with a route is specified in the form of a HofHtmlElement. Redirects and advanced features such as arbitrarily deep nested routing are also supported.
 
 ## Key features
 This framework has the following advantages, among others:

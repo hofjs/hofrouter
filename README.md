@@ -164,7 +164,7 @@ Hof.js router can be installed by including the nomodule script file hofrouter.j
 This framework can also be installed by using npm.
 
 ```
-npm install -g @hofjs/hofrouter
+npm install @hofjs/hofrouter
 ```
 
 This package contains builds in esm, cjs and nomodules formats. While cjs is suitable for server-side JS projects (Node projects), esm is the standard for client-side JS projects. To support older browsers without JS module support or to realize a small web application without requiring JavaScript modules, the nomodules variant can be used.

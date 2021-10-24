@@ -1,6 +1,6 @@
 {
   "name": "@hofjs/hofjs-router",
-  "version": "0.0.10",
+  "version": "0.0.20",
   "description": "Hof.js router",
   "author": "Hof.js router contributors",
   "repository": "https://github.com/hofjs/hofrouter",

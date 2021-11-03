@@ -1,10 +1,11 @@
 # Hof.js router
 
-Hof.js router is a modern routing framework that was designed to be used with [Hof.js](https://github.com/hofjs/hof). It is an open source project of Hof University of Applied Sciences and was created by Prof. Dr. Walter Kern. It is maintained by [Hof.js contributors](https://github.com/hofjs/hof/graphs/contributors). Contact us if you would like to contribute.
+Hof.js router is a modern routing framework that was designed to be used with [Hof.js](https://github.com/hofjs/hof). It is an open source project of Hof University of Applied Sciences and was created by Prof. Dr. Walter Kern. It is maintained by [Hof.js contributors](https://github.com/hofjs/hof/graphs/contributors). Contact us if you are a student of Hof University of Applied Sciences and would like to contribute.
 
 ## Contact
-* [Hof University of Applied Sciences](https://www.hof-university.com/)
-* [Impressum / Imprint](https://www.hof-university.de/impressum.html)
+* Organization: https://www.hof-university.com
+* Mail: androidapps@hof-university.de
+* Impressum / Imprint: https://www.hof-university.de/impressum.html
 
 ## Key features
 This framework has the following advantages, among others:

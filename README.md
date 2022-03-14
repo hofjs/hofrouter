@@ -189,7 +189,7 @@ const { HofRouter } = require("pathToNodeFolderOfApp/node_modules/@hofjs/hofjs-r
 
 ## Documentation
 
-The documentation with a step-by-step guide can be found at https://github.com/hofjs/hofjs.github.io.
+The documentation with a step-by-step guide can be found at https://hofjs.github.io.
 
 You can contribute by sending pull requests to [this repository](https://github.com/hofjs/hofrouter).
 

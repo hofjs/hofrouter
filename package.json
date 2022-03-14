@@ -30,6 +30,6 @@
     "/lib"
   ],
   "dependencies": {
-    "@hofjs/hofjs": "0.0.22"
+    "@hofjs/hofjs": "1.0.0"
   }
 }

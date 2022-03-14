@@ -136,9 +136,11 @@ export class HofRouter {
         // View should be initially hidden
         view.style.display = 'none';
 
-        HofRouter._updateView(view, route, urlParams);
+        HofRouter._updateView(view as HofHtmlElement, route, urlParams);
 
         mountElement.appendChild(view);
+        
+        view.render();
 
         return view;
     }
